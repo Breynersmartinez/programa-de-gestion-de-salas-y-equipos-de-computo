@@ -1,0 +1,18 @@
+IDENTIFICACION USUARIO - UBICACION DEL USUARIO
+1107840704 - Sala 3
+1107840704 - Sala 3
+1107840704 - OFICINA_Auxiliares_TI
+321 - Sala informaica 3 _piso_3
+321 - Biblioteca_UCC
+1234567 - OFICINA_Auxiliares_TI
+321 - Sala 301
+1107840704 - Sala informaica 1_piso_3
+1107840704 - OFICINA_AUXILIAR_TI
+1234567 - Biblioteca_UCC
+12345678 - Sala informaica 1_piso_3
+147 - Sala 301 - 16:39:22
+2345678 - OFICINA_AUXILIAR_TI
+147 - Sala 305 -16:43:32
+9876543 - Sala informaica 1_piso_3 -2023-11-27 16:53:26
+147 - Sala 301 - 2023-11-27 23:44:35
+1107840704 - Sala informaica 2_piso_3 - 2023-11-27 23:53:33

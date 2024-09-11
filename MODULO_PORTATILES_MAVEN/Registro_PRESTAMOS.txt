@@ -1,0 +1,12 @@
+descripcion_prestamo\\¿User_bloqueado?\\ nombre_user\\identificacion\\ID_Equipo\\equipo_p\\desescripcion_equi\\ sala_equi\\tipo_equi\\DOCUMENTO_Aux\\nombres_Aux\\apellido_Aux\\FECHA_REGISTRO\\¿EQUIPO_REGRESADO?
+xdfbxfdb      no     fdbzbdf      321      2      gcnfg     xfgnfgx      fxgnxf      xfgng      72727      brbrd      fgfg      SI
+sdfg      sdfgh     sadfg      321      2      sfdgb     dsafg      sfdg      dsafg      8383      dfhgh      dsfg              SI
+CON TARJETA ID      NO     BREYNER SAUL MARTINES MUÑOZ      1107840704      36      DESKOP I5     ENTREGADO EN BUEN ESTADO      305      MESA      1120352      DUVAN       MORA ZAPATA    SI
+CON TARJETA        NO      BVBDFIUBDI       321       3       SAMP      entregado en  beunas condiciones        302       de mesa       5611651       carlos        hola rrr       SI
+con tarjeta        no      BSBUHBA       321       2       bunbub      buenas condiciones        movil       portatil       6615616       carlos        senteno        SI
+sdfg       no      nfgnf       1107840704       1       rfbgft      bdfxbd       ddbd       dfbzd       727       ffgnf       fnfn          SI
+con tarjeta       no      breyner saul       1107840704       4       simp2      en buenas condicioes       sala movil       portatil       1143234567       andres        iniesta
+con tarjeta ucc       no      jhon pablo carabali       12345678       5       3      en buen estado        movil       portatil       6975425       carlos andres       chamorro ordoñes
+con tarjeta       no      jhon cano       147       1       deskop      en buen estado       301       escritorio       1143234567       andres        iniesta  2023-11-26 23:42:11
+prestamo tarjeta ucc       no      Pablo Montoya       2345678       3       SMP1      prestado en buenas condiciones       sala movil        portatil       1143234567       Andres       Iniesta  2023-11-26 18:19:11 SI
+con arjeta ucc       no      Juan david murcia       9876543       4       simp2      prestado en buesnas condiciones_100 carga       movil       portatil       6975425       Carlos Andres       Chamorro Ordoñes       2023-11-27 23:59:11

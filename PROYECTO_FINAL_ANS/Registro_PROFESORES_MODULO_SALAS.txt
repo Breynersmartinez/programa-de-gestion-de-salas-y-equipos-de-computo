@@ -1,0 +1,7 @@
+DOCUMENTO_DEL_USUARIO\\HORA_INGRESO\\HORA_SALIDA         SALA_ELEGIDA
+1107840704       12:36:41 a. m.      12:50:29 a. m.
+1107840704       12:30:23 p. m.      12:59:19 p. m.      Sala 305
+147       09:27:42 p. m.      09:59:42 p. m.      Sala 305
+147       10:47:47 p. m.      10:49:47 p. m.      OFICINA_Auxiliares_TI
+147       11:16:26 a. m.      11:56:37 a. m.      Sala 305
+147       11:17:10 a. m.      11:50:10 a. m.      Sala 305
